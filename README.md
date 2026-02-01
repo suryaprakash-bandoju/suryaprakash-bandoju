@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Suryaprakash Bandoju
 
-<!--
-**suryaprakash-bandoju/suryaprakash-bandoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year B.Tech (EEE) student transitioning into IT with a focus on Python, Linux, Git/GitHub, AWS basics, and DevOps fundamentals.  
+I build practical, real-world projects and continuously improve my skills in Cloud and DevOps.
 
-Here are some ideas to get you started:
+## 🌐 Portfolio
+Live Portfolio: https://suryaprakash-bandoju.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python  
+- Linux  
+- Git & GitHub  
+- AWS (basics)  
+- DevOps Fundamentals  
+
+## 📌 Projects
+- **Cloud-Integrated Weather Monitoring System**  
+  (Upgraded academic project with cloud connectivity)
+
+- **Personal Portfolio Website**  
+  Built using GitHub Pages to showcase my work
+
+## 📫 Connect
+More details, certificates, and project explanations in my portfolio.
