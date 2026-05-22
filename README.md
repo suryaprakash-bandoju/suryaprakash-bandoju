@@ -1,24 +1,34 @@
-# 👋 Hi, I'm Suryaprakash Bandoju
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Suryaprakassh Bandoju
+==============================================================================================================================================
 
-Final-year B.Tech (EEE) student transitioning into IT with a focus on Python, Linux, Git/GitHub, AWS basics, and DevOps fundamentals.  
-I build practical, real-world projects and continuously improve my skills in Cloud and DevOps.
+Aspiring Cloud & DevOps Engineer | Building Real-World Projects
+---------------------------------------------------------------
 
-## 🌐 Portfolio
-Live Portfolio: https://suryaprakash-bandoju.github.io
+Hi, I'm Suryaprakash Bandoju, an engineering student from an Electrical & Electronics Engineering (EEE) background with a strong interest in technology, cloud computing, and automation. I am currently building my skills in Python, Cloud Computing, DevOps, Linux, and Automation while preparing to start my career in the IT industry.
 
-## 🔧 Skills
-- Python  
-- Linux  
-- Git & GitHub  
-- AWS (basics)  
-- DevOps Fundamentals  
+I’m a passionate Cloud & DevOps Enthusiast who enjoys learning modern technologies and building practical projects that improve problem-solving and technical skills. My focus is on gaining strong fundamentals, hands-on experience, and real-world exposure through continuous learning and project building.
 
-## 📌 Projects
-- **Cloud-Integrated Weather Monitoring System**  
-  (Upgraded academic project with cloud connectivity)
+I am open to starting my career in any technical IT role that helps me grow professionally, strengthen my technical foundation, and move toward my long-term goal in the Cloud and DevOps domain.
 
-- **Personal Portfolio Website**  
-  Built using GitHub Pages to showcase my work
+I strongly believe in learning by doing, continuously improving step by step, and building projects that create real value while helping me grow as a technology professional.
 
-## 📫 Connect
-More details, certificates, and project explanations in my portfolio.
+* 🌍  I'm based in Hyderabad
+* 🖥️  See my portfolio at [MyPortfolio](http://https://suryaprakash-bandoju.github.io/)
+* ✉️  You can contact me at [bandojusuryaprakash3528@gmail.com](mailto:bandojusuryaprakash3528@gmail.com)
+* 🧠  I'm currently learning - Python Programming - AWS Cloud Fundamentals - DevOps Fundamentals - Linux Administration - Git & GitHub - SQL & Database Basics - Automation & Monitoring Concepts - Computer Science Fundamentals - Cloud & Infrastructure Basics - CI/CD Concepts and Workflows
+* 👥  I'm looking to collaborate on - Cloud & DevOps Projects - Python Automation Projects - Beginner-Friendly Open Source Contributions - Monitoring & Infrastructure Tools - AWS & Linux Based Projects - Real-World Problem Solving Projects - Automation and Productivity Tools
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" alt="Digital Ocean" title="Digital Ocean" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/suryaprakash-bandoju" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/suryaprakashbandoju" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@circuit2codesurya?si=R-ziuCeUlxngpGhO" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
+<a href="https://www.github.com/suryaprakash-bandoju" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/suryaprakash-bandoju?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/suryaprakash-bandoju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakash-bandoju&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
