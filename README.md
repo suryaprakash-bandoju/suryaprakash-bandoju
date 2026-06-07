@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Suryaprakassh Bandoju
 ==============================================================================================================================================
 
-Aspiring Cloud & DevOps Engineer | Building Real-World Projects
----------------------------------------------------------------
+Aspiring Software Developer | Python & SQL | IoT-Cloud Integration | AWS & DevOps Enthusiast | Self-Taught CS Fundamentals (DSA, OOP, DBMS, OS, CN) | Seeking Entry-Level IT Roles
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hi, I'm Suryaprakash Bandoju, an engineering student from an Electrical & Electronics Engineering (EEE) background with a strong interest in technology, cloud computing, and automation. I am currently building my skills in Python, Cloud Computing, DevOps, Linux, and Automation while preparing to start my career in the IT industry.
 
