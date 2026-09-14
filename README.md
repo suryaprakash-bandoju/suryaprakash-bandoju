@@ -28,7 +28,17 @@ I'm an aspiring Cloud/DevOps Engineer from Hyderabad who builds projects end-to-
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryaprakash-bandoju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakash-bandoju&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <table style="border: none;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; background: transparent;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaprakash-bandoju&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suryaprakash-bandoju&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
